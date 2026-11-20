@@ -1,0 +1,138 @@
+{
+ "/404/": {
+  "title": "Page not found · CDB Production",
+  "description": "Independent creative production studio in Antalya. Original show concepts, immersive performances and season-long entertainment programmes for hotels and resorts.",
+  "canonical": null,
+  "ld": [
+   "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"CDB Production\",\"legalName\":\"CDB Production Turizm İnşaat Ticaret Limited Şirketi\",\"url\":\"https://cdbproduction.com\",\"email\":\"booking@cdbproduction.com\",\"telephone\":\"+90 532 435 00 80\",\"foundingDate\":\"2020\",\"founder\":{\"@type\":\"Person\",\"name\":\"Cihan Demirbaş\"},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Antalya\",\"addressCountry\":\"TR\"},\"sameAs\":[\"https://www.instagram.com/cdb.production\"]}"
+  ]
+ },
+ "/_not-found/": {
+  "title": "Page not found · CDB Production",
+  "description": "Independent creative production studio in Antalya. Original show concepts, immersive performances and season-long entertainment programmes for hotels and resorts.",
+  "canonical": null,
+  "ld": [
+   "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"CDB Production\",\"legalName\":\"CDB Production Turizm İnşaat Ticaret Limited Şirketi\",\"url\":\"https://cdbproduction.com\",\"email\":\"booking@cdbproduction.com\",\"telephone\":\"+90 532 435 00 80\",\"foundingDate\":\"2020\",\"founder\":{\"@type\":\"Person\",\"name\":\"Cihan Demirbaş\"},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Antalya\",\"addressCountry\":\"TR\"},\"sameAs\":[\"https://www.instagram.com/cdb.production\"]}"
+  ]
+ },
+ "/contact/": {
+  "title": "Contact · CDB Production",
+  "description": "Start a project with CDB Production: tell us about your venue, your dates and your season.",
+  "canonical": "https://cdbproduction.com/contact/",
+  "ld": [
+   "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"CDB Production\",\"legalName\":\"CDB Production Turizm İnşaat Ticaret Limited Şirketi\",\"url\":\"https://cdbproduction.com\",\"email\":\"booking@cdbproduction.com\",\"telephone\":\"+90 532 435 00 80\",\"foundingDate\":\"2020\",\"founder\":{\"@type\":\"Person\",\"name\":\"Cihan Demirbaş\"},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Antalya\",\"addressCountry\":\"TR\"},\"sameAs\":[\"https://www.instagram.com/cdb.production\"]}"
+  ]
+ },
+ "/experiences/casa-del-ritmo/": {
+  "title": "CASA DEL RITMO · CDB Production",
+  "description": "CASA DEL RITMO: An open-air party that starts at sunset and brings guests into the dance with Latin rhythm.",
+  "canonical": "https://cdbproduction.com/experiences/casa-del-ritmo/",
+  "ld": [
+   "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"CDB Production\",\"legalName\":\"CDB Production Turizm İnşaat Ticaret Limited Şirketi\",\"url\":\"https://cdbproduction.com\",\"email\":\"booking@cdbproduction.com\",\"telephone\":\"+90 532 435 00 80\",\"foundingDate\":\"2020\",\"founder\":{\"@type\":\"Person\",\"name\":\"Cihan Demirbaş\"},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Antalya\",\"addressCountry\":\"TR\"},\"sameAs\":[\"https://www.instagram.com/cdb.production\"]}",
+   "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://cdbproduction.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Experiences\",\"item\":\"https://cdbproduction.com/experiences/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"CASA DEL RITMO\",\"item\":\"https://cdbproduction.com/experiences/casa-del-ritmo/\"}]}"
+  ]
+ },
+ "/experiences/hypnotized/": {
+  "title": "HYPNOTIZED · CDB Production",
+  "description": "HYPNOTIZED: Dark and cinematic: live strings, dancers and light at the peak of the night.",
+  "canonical": "https://cdbproduction.com/experiences/hypnotized/",
+  "ld": [
+   "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"CDB Production\",\"legalName\":\"CDB Production Turizm İnşaat Ticaret Limited Şirketi\",\"url\":\"https://cdbproduction.com\",\"email\":\"booking@cdbproduction.com\",\"telephone\":\"+90 532 435 00 80\",\"foundingDate\":\"2020\",\"founder\":{\"@type\":\"Person\",\"name\":\"Cihan Demirbaş\"},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Antalya\",\"addressCountry\":\"TR\"},\"sameAs\":[\"https://www.instagram.com/cdb.production\"]}",
+   "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://cdbproduction.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Experiences\",\"item\":\"https://cdbproduction.com/experiences/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"HYPNOTIZED\",\"item\":\"https://cdbproduction.com/experiences/hypnotized/\"}]}"
+  ]
+ },
+ "/experiences/": {
+  "title": "Experiences · CDB Production",
+  "description": "NOEMA, XOXO, HYPNOTIZED and CASA DEL RITMO: four original worlds with their own music, cast, costume and stage.",
+  "canonical": "https://cdbproduction.com/experiences/",
+  "ld": [
+   "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"CDB Production\",\"legalName\":\"CDB Production Turizm İnşaat Ticaret Limited Şirketi\",\"url\":\"https://cdbproduction.com\",\"email\":\"booking@cdbproduction.com\",\"telephone\":\"+90 532 435 00 80\",\"foundingDate\":\"2020\",\"founder\":{\"@type\":\"Person\",\"name\":\"Cihan Demirbaş\"},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Antalya\",\"addressCountry\":\"TR\"},\"sameAs\":[\"https://www.instagram.com/cdb.production\"]}"
+  ]
+ },
+ "/experiences/noema/": {
+  "title": "NOEMA · CDB Production",
+  "description": "NOEMA: Mediterranean warmth, African rhythm and live percussion: a party that rises from sunset into the night.",
+  "canonical": "https://cdbproduction.com/experiences/noema/",
+  "ld": [
+   "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"CDB Production\",\"legalName\":\"CDB Production Turizm İnşaat Ticaret Limited Şirketi\",\"url\":\"https://cdbproduction.com\",\"email\":\"booking@cdbproduction.com\",\"telephone\":\"+90 532 435 00 80\",\"foundingDate\":\"2020\",\"founder\":{\"@type\":\"Person\",\"name\":\"Cihan Demirbaş\"},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Antalya\",\"addressCountry\":\"TR\"},\"sameAs\":[\"https://www.instagram.com/cdb.production\"]}",
+   "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://cdbproduction.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Experiences\",\"item\":\"https://cdbproduction.com/experiences/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"NOEMA\",\"item\":\"https://cdbproduction.com/experiences/noema/\"}]}"
+  ]
+ },
+ "/experiences/xoxo/": {
+  "title": "XOXO · CDB Production",
+  "description": "XOXO: Neon, disco and live sax: a night to dance, meet and share the moment.",
+  "canonical": "https://cdbproduction.com/experiences/xoxo/",
+  "ld": [
+   "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"CDB Production\",\"legalName\":\"CDB Production Turizm İnşaat Ticaret Limited Şirketi\",\"url\":\"https://cdbproduction.com\",\"email\":\"booking@cdbproduction.com\",\"telephone\":\"+90 532 435 00 80\",\"foundingDate\":\"2020\",\"founder\":{\"@type\":\"Person\",\"name\":\"Cihan Demirbaş\"},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Antalya\",\"addressCountry\":\"TR\"},\"sameAs\":[\"https://www.instagram.com/cdb.production\"]}",
+   "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://cdbproduction.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Experiences\",\"item\":\"https://cdbproduction.com/experiences/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"XOXO\",\"item\":\"https://cdbproduction.com/experiences/xoxo/\"}]}"
+  ]
+ },
+ "/": {
+  "title": "CDB Production · Creative Entertainment Production Studio, Antalya",
+  "description": "Independent creative production studio in Antalya. Original show concepts, immersive performances and season-long entertainment programmes for hotels and resorts.",
+  "canonical": null,
+  "ld": [
+   "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"CDB Production\",\"legalName\":\"CDB Production Turizm İnşaat Ticaret Limited Şirketi\",\"url\":\"https://cdbproduction.com\",\"email\":\"booking@cdbproduction.com\",\"telephone\":\"+90 532 435 00 80\",\"foundingDate\":\"2020\",\"founder\":{\"@type\":\"Person\",\"name\":\"Cihan Demirbaş\"},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Antalya\",\"addressCountry\":\"TR\"},\"sameAs\":[\"https://www.instagram.com/cdb.production\"]}"
+  ]
+ },
+ "/privacy/": {
+  "title": "Privacy notice · CDB Production",
+  "description": "Independent creative production studio in Antalya. Original show concepts, immersive performances and season-long entertainment programmes for hotels and resorts.",
+  "canonical": "https://cdbproduction.com/privacy/",
+  "ld": [
+   "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"CDB Production\",\"legalName\":\"CDB Production Turizm İnşaat Ticaret Limited Şirketi\",\"url\":\"https://cdbproduction.com\",\"email\":\"booking@cdbproduction.com\",\"telephone\":\"+90 532 435 00 80\",\"foundingDate\":\"2020\",\"founder\":{\"@type\":\"Person\",\"name\":\"Cihan Demirbaş\"},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Antalya\",\"addressCountry\":\"TR\"},\"sameAs\":[\"https://www.instagram.com/cdb.production\"]}"
+  ]
+ },
+ "/studio/": {
+  "title": "Studio · CDB Production",
+  "description": "CDB Production is a creative entertainment production studio in Antalya, founded in 2020 by Cihan Demirbaş.",
+  "canonical": "https://cdbproduction.com/studio/",
+  "ld": [
+   "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"CDB Production\",\"legalName\":\"CDB Production Turizm İnşaat Ticaret Limited Şirketi\",\"url\":\"https://cdbproduction.com\",\"email\":\"booking@cdbproduction.com\",\"telephone\":\"+90 532 435 00 80\",\"foundingDate\":\"2020\",\"founder\":{\"@type\":\"Person\",\"name\":\"Cihan Demirbaş\"},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Antalya\",\"addressCountry\":\"TR\"},\"sameAs\":[\"https://www.instagram.com/cdb.production\"]}"
+  ]
+ },
+ "/work/cullinan-belek/": {
+  "title": "Cullinan Belek · NOEMA · CDB Production",
+  "description": "All three of our signature productions ran at Cullinan Belek throughout the 2026 season. The film here is from a NOEMA night at the hotel.",
+  "canonical": "https://cdbproduction.com/work/cullinan-belek/",
+  "ld": [
+   "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"CDB Production\",\"legalName\":\"CDB Production Turizm İnşaat Ticaret Limited Şirketi\",\"url\":\"https://cdbproduction.com\",\"email\":\"booking@cdbproduction.com\",\"telephone\":\"+90 532 435 00 80\",\"foundingDate\":\"2020\",\"founder\":{\"@type\":\"Person\",\"name\":\"Cihan Demirbaş\"},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Antalya\",\"addressCountry\":\"TR\"},\"sameAs\":[\"https://www.instagram.com/cdb.production\"]}",
+   "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://cdbproduction.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Work\",\"item\":\"https://cdbproduction.com/work/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Cullinan Belek\",\"item\":\"https://cdbproduction.com/work/cullinan-belek/\"}]}"
+  ]
+ },
+ "/work/": {
+  "title": "Work · CDB Production",
+  "description": "Productions staged at hotels and resorts in Antalya during the 2026 season, each with a case study and a film shot on site.",
+  "canonical": "https://cdbproduction.com/work/",
+  "ld": [
+   "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"CDB Production\",\"legalName\":\"CDB Production Turizm İnşaat Ticaret Limited Şirketi\",\"url\":\"https://cdbproduction.com\",\"email\":\"booking@cdbproduction.com\",\"telephone\":\"+90 532 435 00 80\",\"foundingDate\":\"2020\",\"founder\":{\"@type\":\"Person\",\"name\":\"Cihan Demirbaş\"},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Antalya\",\"addressCountry\":\"TR\"},\"sameAs\":[\"https://www.instagram.com/cdb.production\"]}"
+  ]
+ },
+ "/work/ng-phaselis-bay/": {
+  "title": "NG Phaselis Bay · HYPNOTIZED · CDB Production",
+  "description": "All three of our signature productions ran at NG Phaselis Bay throughout the 2026 season. The film is from HYPNOTIZED and shows the most intense part…",
+  "canonical": "https://cdbproduction.com/work/ng-phaselis-bay/",
+  "ld": [
+   "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"CDB Production\",\"legalName\":\"CDB Production Turizm İnşaat Ticaret Limited Şirketi\",\"url\":\"https://cdbproduction.com\",\"email\":\"booking@cdbproduction.com\",\"telephone\":\"+90 532 435 00 80\",\"foundingDate\":\"2020\",\"founder\":{\"@type\":\"Person\",\"name\":\"Cihan Demirbaş\"},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Antalya\",\"addressCountry\":\"TR\"},\"sameAs\":[\"https://www.instagram.com/cdb.production\"]}",
+   "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://cdbproduction.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Work\",\"item\":\"https://cdbproduction.com/work/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"NG Phaselis Bay\",\"item\":\"https://cdbproduction.com/work/ng-phaselis-bay/\"}]}"
+  ]
+ },
+ "/work/titanic-belek/": {
+  "title": "Titanic Belek · Greek dinner show · CDB Production",
+  "description": "Alongside our signature productions throughout the 2026 season, a Greek dinner show ran in Titanic Belek’s Yamas restaurant. Its flow was built around…",
+  "canonical": "https://cdbproduction.com/work/titanic-belek/",
+  "ld": [
+   "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"CDB Production\",\"legalName\":\"CDB Production Turizm İnşaat Ticaret Limited Şirketi\",\"url\":\"https://cdbproduction.com\",\"email\":\"booking@cdbproduction.com\",\"telephone\":\"+90 532 435 00 80\",\"foundingDate\":\"2020\",\"founder\":{\"@type\":\"Person\",\"name\":\"Cihan Demirbaş\"},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Antalya\",\"addressCountry\":\"TR\"},\"sameAs\":[\"https://www.instagram.com/cdb.production\"]}",
+   "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://cdbproduction.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Work\",\"item\":\"https://cdbproduction.com/work/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Titanic Belek\",\"item\":\"https://cdbproduction.com/work/titanic-belek/\"}]}"
+  ]
+ },
+ "/work/voyage-belek/": {
+  "title": "Voyage Belek · XOXO · CDB Production",
+  "description": "All three of our signature productions ran at Voyage Belek throughout the 2026 season. The film shows both the stage and the backstage of the same…",
+  "canonical": "https://cdbproduction.com/work/voyage-belek/",
+  "ld": [
+   "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"CDB Production\",\"legalName\":\"CDB Production Turizm İnşaat Ticaret Limited Şirketi\",\"url\":\"https://cdbproduction.com\",\"email\":\"booking@cdbproduction.com\",\"telephone\":\"+90 532 435 00 80\",\"foundingDate\":\"2020\",\"founder\":{\"@type\":\"Person\",\"name\":\"Cihan Demirbaş\"},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Antalya\",\"addressCountry\":\"TR\"},\"sameAs\":[\"https://www.instagram.com/cdb.production\"]}",
+   "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://cdbproduction.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Work\",\"item\":\"https://cdbproduction.com/work/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Voyage Belek\",\"item\":\"https://cdbproduction.com/work/voyage-belek/\"}]}"
+  ]
+ }
+}
