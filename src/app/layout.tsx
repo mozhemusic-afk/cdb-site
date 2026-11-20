@@ -1,10 +1,11 @@
 import type { Metadata, Viewport } from "next";
 import "./legacy.css";
+import "./site.css";
 import { cssVars } from "@/lib/motion-tokens";
 import { Before } from "@/components/chrome/before";
 import { After } from "@/components/chrome/after";
 import { Enhance } from "@/enhance/Enhance";
-import { SmoothScroll } from "@/components/SmoothScroll";
+import { Deferred } from "@/components/Deferred";
 
 const SITE = { name: "CDB Production", url: "https://cdbproduction.com" };
 
@@ -43,7 +44,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Before />
         <main id="main">{children}</main>
         <After />
-        <SmoothScroll />
+        <Deferred />
         <Enhance />
       </body>
     </html>
